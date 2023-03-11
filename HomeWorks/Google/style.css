@@ -1,0 +1,59 @@
+.center {
+    text-align: center;
+}
+
+.container {
+    background-color: #eee;
+    margin: 0 100px 0 100px;
+}
+
+.container1 {
+    margin: 0 100px 0 100px;
+}
+
+.search {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    text-align: center;
+    display: block;
+}
+
+.card1 {
+    text-align: center;
+    background-color: #7EE5DA;
+    width: 37%;
+    float: left;
+    margin-left: 5px;
+    height: 80px;
+    padding-top: 10px;
+}
+
+.card2 {
+    text-align: center;
+    width: 21%;
+    float: left;
+    background-color: #70CCC2;
+    margin-left: 2px;
+    height: 80px;
+    padding-top: 10px;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.card3 {
+    background-color: #62B3AA;
+    width: 33%;
+    text-align: center;
+    float: left;
+    height: 80px;
+    margin-left: 2px;
+    padding-top: 10px;
+    margin: bottom 15px;
+    font-size: 15px;
+}
+.copyright{
+    font-size: small;
+    text-align: center;
+    margin-top: 115px;
+}
